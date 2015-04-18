@@ -52,10 +52,6 @@ void Sudoku::ReadIn()
 		}
 	}
 }
-//int Sudoku::print_rnt()
-//{
-// std::cout<<rnt
-//}
 int Sudoku::Solve()
 {
 	int row, col;

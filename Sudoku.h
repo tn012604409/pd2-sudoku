@@ -8,7 +8,6 @@ public:
     void GiveQuestion();
     void ReadIn();
     int Solve();
-//    int print_rnt();//	
     void Print();
 private:
     char m_board[12][12];
